@@ -2,7 +2,7 @@
 # version en ingles
 NMscript is a simple script written in python that helps us access some nmap functionalities quickly and easily. The code for this is extremely simple and can be greatly improved. I upload it because it was one of my first projects and I am very fond of it (I will upload the same project with the nmap library)
 
-<IMG SRC = "">
+<IMG SRC = "https://github.com/cabesonwiliams/NMscript-EN-/blob/main/IMAGE%201.PNG">
 
 # Menu  
 
@@ -31,7 +31,7 @@ NMscript is a simple script written in python that helps us access some nmap fun
     |_________________________________________________________________________________________|
    
 # Scripts	
- <IMG SRC = "">   
+ <IMG SRC = "https://github.com/cabesonwiliams/NMscript-EN-/blob/main/IMAGE%202.PNG">   
     
 # Nmap
 Nmap, short for Network Mapper, is a free, open source tool for vulnerability scanning and network discovery. Network administrators use Nmap to identify which devices are running on their systems, discover hosts that are available and the services they offer, find open ports, and detect security risks. Nmap can be used to monitor individual hosts as well as extensive networks spanning hundreds of miles of devices and multitudes of subnets.
