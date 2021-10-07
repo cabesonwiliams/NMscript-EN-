@@ -1,5 +1,5 @@
 # NMscript-EN-
-# version en ingles
+# English Version
 NMscript is a simple script written in python that helps us access some nmap functionalities quickly and easily. The code for this is extremely simple and can be greatly improved. I upload it because it was one of my first projects and I am very fond of it (I will upload the same project with the nmap library)
 
 <IMG SRC = "https://github.com/cabesonwiliams/NMscript-EN-/blob/main/IMAGE%201.PNG">
