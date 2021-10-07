@@ -48,7 +48,7 @@ Installation
 > 
  (run as root)
  
-     $ git clone https://github.com/cabesonwiliams/NMscript.git 
+     $ git clone https://github.com/cabesonwiliams/NMscript-EN-.git 
     
      $ cd NMscript   
 	
