@@ -54,7 +54,7 @@ Installation
 	
      $ python3 NMscript.py
 	
-     /For its correct operation use kali lunux or parrot os otherwise install
+     /For its correct operation use kali linux or parrot os otherwise install
       python and nmap on your OS/
 	
 
