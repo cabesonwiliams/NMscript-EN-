@@ -61,3 +61,8 @@ Installation
 --------------------------------
 	
 # by cabeson sin z
+
+Version en español de NMscript
+[NMscript](https://github.com/cabesonwiliams/NMscript)
+Version para termux
+[NM-Termux](https://github.com/cabesonwiliams/NM-Termux) 
