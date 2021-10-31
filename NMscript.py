@@ -203,7 +203,7 @@ def nmap():
         slut = input("\033[1;36m" +"Enter an ip or web page ( e.j scanme.nmap.org )\n>> ")
         os.system(f'nmap -sn --traceroute {slut}')
         time.sleep(15)
-        input("\033[1;36m" + 'Enter an ip or web page ( e.j scanme.nmap.org )\n>> ') 
+        input("\033[1;36m" +'Press Any Button To Return To The Menu\n>> ')
         nmap() 
 
  ######################## Opcion 11 ##########################
