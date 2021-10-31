@@ -50,7 +50,7 @@ Installation
  
      $ git clone https://github.com/cabesonwiliams/NMscript-EN-.git 
     
-     $ cd NMscript   
+     $ cd NMscript-EN-
 	
      $ python3 NMscript.py
 	
