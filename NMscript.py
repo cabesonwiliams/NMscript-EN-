@@ -266,9 +266,10 @@ def nmap():
     elif opcion == "16":
         os.system("clear")
         print("\033[1;36m" + banner1)
+        intensidad = input("\033[1;36m" + ( "Choose the intensity of the script (max 5)\n>> "))
         senuelo = input("\033[1;36m" + ( "Enter an ip or web page ( e.j scanme.nmap.org )\n>> "))
         Port = input("\033[1;36m" +("Enter the ports you are going to use (If you don't know which ones, try 80,443)\n>> "))
-        os.system(f"nmap -p{Port} --script http-waf-fingerprint {senuelo}")
+        os.system(f"nmap -p{Port} nmap -p80,443 --script http-waf-fingerprint --script-args http-waf-fingerprint.intensive={intensidad} {senuelo}")
         time.sleep(15)
         input("\033[1;36m" + 'Press Any Button To Return To The Menu\n>> ')
         nmap()
